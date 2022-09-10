@@ -1,0 +1,1 @@
+_In this repository, you will learn how to integrate email service in your django application using SendGrid._
